@@ -5,8 +5,8 @@
     android:weightSum="1">
 
     <ImageView
-        android:layout_width="169dp"
-        android:layout_height="wrap_content"
+        android:layout_width="72dp"
+        android:layout_height="61dp"
         android:id="@+id/imageView"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -14,7 +14,6 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_above="@+id/label_nameuser"
-        android:layout_weight="0.21"
         android:src="@android:mipmap/sym_def_app_icon" />
 
     <TextView

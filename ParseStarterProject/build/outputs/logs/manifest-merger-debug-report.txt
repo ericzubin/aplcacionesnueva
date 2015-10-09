@@ -50,7 +50,10 @@ ADDED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\sr
 application
 ADDED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\src\main\AndroidManifest.xml:28:5-81:19
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:gridlayout-v7:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\src\main\AndroidManifest.xml:32:9-41
 	android:allowBackup
@@ -152,7 +155,10 @@ ADDED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\sr
 uses-sdk
 INJECTED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		INJECTED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ERIC\Downloads\nuevo\aplcacionesnueva\ParseStarterProject\src\main\AndroidManifest.xml

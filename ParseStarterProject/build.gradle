@@ -29,12 +29,16 @@ android {
         }
     }
 }
-
+repositories {
+    mavenCentral()
+}
 dependencies {
     compile 'com.android.support:appcompat-v7:22.2.0'
-
     compile 'com.parse.bolts:bolts-android:1.2.1'
     compile 'com.parse:parse-android:1.10.3'
+    compile 'com.github.bumptech.glide:glide:3.6.1'
+    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:gridlayout-v7:23.0.1'
 }
 
 /* Uncomment if you enable ProGuard and you want to automatically upload symbols on build.

@@ -5,10 +5,12 @@ import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.ListAdapter;
 import android.widget.ListView;
 
 import com.parse.FindCallback;
@@ -24,7 +26,7 @@ import java.util.List;
  * Created by ERIC on 04/10/2015.
  */
 //
-public class usuarios extends Activity {
+public class usuarios extends ActionBarActivity {
     private ListView list_usuarios;
     private GridView GD;
     private ArrayList<Personas> personass=new ArrayList<Personas>();
@@ -189,15 +191,9 @@ public class usuarios extends Activity {
                 public void run() {
 
 
-
-                    PersonasAdapter adapter = new PersonasAdapter(c,personass);
-                    //adapter = new AnimalesAdapter(this, animales);
-
-                    GridView GD= (GridView) findViewById(R.id.gridview);
+                    PersonasAdapter adapter = new PersonasAdapter(c, personass);
+                    GridView GD = (GridView) findViewById(R.id.gridview);
                     GD.setAdapter(adapter);
-
-
-
 
 
                 }
